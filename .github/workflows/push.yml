@@ -1,0 +1,44 @@
+name: push
+
+on: 
+  release:
+    types: [published]
+  push:
+    tags:
+    - 'v*'
+  #  branches: 
+  #    - master
+  schedule:
+    - cron: "0 18 * * *"
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Set up python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+
+    - name: Install requests
+      run: pip install requests
+
+    - name: generate
+      run: python sitemap.py
+      
+    - name: Commit #更新日志到GitHub仓库
+      run: |
+        git config --global user.email baidupushp@email.com
+        git config --global user.name baidupush
+        git add .
+        git commit -m "Successful Wake" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
