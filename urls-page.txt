@@ -1,6 +1,4 @@
 https://colsrch.cn
-https://colsrch.cn/about/
-https://colsrch.cn/books/
 https://colsrch.cn/categories/
 https://colsrch.cn/friends/
 https://colsrch.cn/history/
@@ -36,3 +34,5 @@ https://colsrch.cn/photo/201702/images/v2/
 https://colsrch.cn/photo/201702/images/v3/
 https://colsrch.cn/books/zjdl/20-1/
 https://colsrch.cn/Creator-said/
+https://colsrch.cn/about/
+https://colsrch.cn/books/
