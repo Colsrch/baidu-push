@@ -13,6 +13,7 @@ https://colsrch.cn/photo/pixiv/v6/
 https://colsrch.cn/photo/pixiv/v7/
 https://colsrch.cn/photo/pixiv/v8/
 https://colsrch.cn/photo/pixiv/v9/
+https://colsrch.cn/photo/pixiv-wallpaper/v2/
 https://colsrch.cn/photo/pixiv-wallpaper/v3/
 https://colsrch.cn/photo/wallpaper/v2/
 https://colsrch.cn/photo/wallpaper/v3/
@@ -32,7 +33,6 @@ https://colsrch.cn/photo/pixiv-wallpaper/
 https://colsrch.cn/photo/201702/200830/
 https://colsrch.cn/photo/201702/images/
 https://colsrch.cn/photo/201702/video/
-https://colsrch.cn/photo/pixiv-wallpaper/v2/
 https://colsrch.cn/photo/201702/images/v2/
 https://colsrch.cn/photo/201702/images/v3/
 https://colsrch.cn/COVID-19/
