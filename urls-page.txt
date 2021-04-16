@@ -1,4 +1,7 @@
 https://colsrch.cn
+https://colsrch.cn/wiki/
+https://colsrch.cn/wiki/papro/
+https://colsrch.cn/wiki/papro/issues/
 https://colsrch.cn/about/
 https://colsrch.cn/books/
 https://colsrch.cn/categories/
@@ -9,11 +12,9 @@ https://colsrch.cn/messages/
 https://colsrch.cn/photo/
 https://colsrch.cn/shuoshuo/
 https://colsrch.cn/tags/
-https://colsrch.cn/wiki/
 https://colsrch.cn/photo/pixiv/
 https://colsrch.cn/photo/pixiv-wallpaper/
 https://colsrch.cn/photo/wallpaper/
-https://colsrch.cn/wiki/papro/
 https://colsrch.cn/photo/pixiv/v2/
 https://colsrch.cn/photo/pixiv/v3/
 https://colsrch.cn/photo/pixiv/v4/
@@ -25,5 +26,4 @@ https://colsrch.cn/photo/pixiv/v9/
 https://colsrch.cn/photo/pixiv-wallpaper/v2/
 https://colsrch.cn/photo/pixiv-wallpaper/v3/
 https://colsrch.cn/photo/wallpaper/v2/
-https://colsrch.cn/wiki/papro/issues/
 https://colsrch.cn/COVID-19/
