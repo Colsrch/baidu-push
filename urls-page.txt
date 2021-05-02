@@ -1,9 +1,7 @@
 https://colsrch.cn
-https://colsrch.cn/photo/
 https://colsrch.cn/shuoshuo/
 https://colsrch.cn/tags/
 https://colsrch.cn/photo/pixiv/
-https://colsrch.cn/photo/pixiv-wallpaper/
 https://colsrch.cn/photo/wallpaper/
 https://colsrch.cn/photo/pixiv/v2/
 https://colsrch.cn/photo/pixiv/v3/
@@ -24,7 +22,9 @@ https://colsrch.cn/history/
 https://colsrch.cn/homepage/
 https://colsrch.cn/messages/
 https://colsrch.cn/notes/
+https://colsrch.cn/photo/
 https://colsrch.cn/notes/graia/
 https://colsrch.cn/notes/mysql/
 https://colsrch.cn/notes/openstack/
+https://colsrch.cn/photo/pixiv-wallpaper/
 https://colsrch.cn/COVID-19/
