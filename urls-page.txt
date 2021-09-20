@@ -1,4 +1,11 @@
 https://colsrch.cn/
+https://colsrch.cn/about/
+https://colsrch.cn/books/
+https://colsrch.cn/categories/
+https://colsrch.cn/fcircle/
+https://colsrch.cn/friends/
+https://colsrch.cn/history/
+https://colsrch.cn/homepage/
 https://colsrch.cn/messages/
 https://colsrch.cn/notes/
 https://colsrch.cn/photo/
@@ -23,11 +30,4 @@ https://colsrch.cn/photo/pixiv/v9/
 https://colsrch.cn/photo/pixiv-wallpaper/v2/
 https://colsrch.cn/photo/pixiv-wallpaper/v3/
 https://colsrch.cn/photo/wallpaper/v2/
-https://colsrch.cn/about/
-https://colsrch.cn/books/
-https://colsrch.cn/categories/
-https://colsrch.cn/fcircle/
-https://colsrch.cn/friends/
-https://colsrch.cn/history/
-https://colsrch.cn/homepage/
 https://colsrch.cn/COVID-19/
