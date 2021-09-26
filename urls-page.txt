@@ -1,6 +1,4 @@
 https://colsrch.cn/
-https://colsrch.cn/shuoshuo/
-https://colsrch.cn/tags/
 https://colsrch.cn/about/
 https://colsrch.cn/books/
 https://colsrch.cn/categories/
@@ -11,6 +9,8 @@ https://colsrch.cn/homepage/
 https://colsrch.cn/messages/
 https://colsrch.cn/notes/
 https://colsrch.cn/photo/
+https://colsrch.cn/shuoshuo/
+https://colsrch.cn/tags/
 https://colsrch.cn/notes/graia/
 https://colsrch.cn/notes/kvm/
 https://colsrch.cn/notes/mysql/
