@@ -14,8 +14,8 @@ https://colsrch.cn/tags/
 https://colsrch.cn/notes/graia/
 https://colsrch.cn/notes/kvm/
 https://colsrch.cn/notes/mysql/
-https://colsrch.cn/notes/openstack/
 https://colsrch.cn/notes/python/
+https://colsrch.cn/notes/openstack/
 https://colsrch.cn/photo/pixiv/
 https://colsrch.cn/photo/pixiv-wallpaper/
 https://colsrch.cn/photo/wallpaper/
