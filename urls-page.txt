@@ -4,7 +4,6 @@ https://colsrch.cn/shuoshuo/
 https://colsrch.cn/tags/
 https://colsrch.cn/photo/pixiv/
 https://colsrch.cn/photo/pixiv-wallpaper/
-https://colsrch.cn/photo/wallpaper/
 https://colsrch.cn/photo/pixiv/v2/
 https://colsrch.cn/photo/pixiv/v3/
 https://colsrch.cn/photo/pixiv/v4/
@@ -16,6 +15,7 @@ https://colsrch.cn/photo/pixiv/v9/
 https://colsrch.cn/photo/pixiv-wallpaper/v2/
 https://colsrch.cn/photo/pixiv-wallpaper/v3/
 https://colsrch.cn/photo/wallpaper/v2/
+https://colsrch.cn/photo/wallpaper/
 https://colsrch.cn/about/
 https://colsrch.cn/books/
 https://colsrch.cn/categories/
